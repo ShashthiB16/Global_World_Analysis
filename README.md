@@ -14,24 +14,39 @@ This project provides a centralized dashboard that simplifies the analysis of po
 and social indicators, enabling users to make data-driven comparisons and gain meaningful insights.
 
 **Tools and Technologies**
+
 *Python
+
 *Pandas
+
 *NumPy 
+
 *Matplotlib
+
 *Seaborn
+
 *Plotly
+
 *Jupyter Notebook
 
 **Features**
+
 *Country-wise comparative analysis
+
 *Interactive charts and visualizations
+
 *Population and demographic analysis
+
 *Geographic insights and comparisons
+
 *Economic and social indicator analysis
+
 *Exploratory Data Analysis (EDA)
+
 *Clean and easy-to-understand dashboard
 
 **Key Insights**
+
 This project provides a comprehensive analysis of global demographic, environmental, healthcare, economic, and social indicators through interactive visualizations.
 It highlights key trends such as Monaco having the highest population density, Russia possessing the largest land area, 
 and China and India leading in population and urban population. The analysis also shows that India has the largest armed forces, 

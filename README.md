@@ -15,19 +15,19 @@ and social indicators, enabling users to make data-driven comparisons and gain m
 
 **Tools and Technologies**
 
-* Python
+Python
 
-* Pandas
+Pandas
 
-*NumPy 
+NumPy 
 
-*Matplotlib
+Matplotlib
 
-*Seaborn
+Seaborn
 
-*Plotly
+Plotly
 
-*Jupyter Notebook
+Jupyter Notebook
 
 **Features**
 

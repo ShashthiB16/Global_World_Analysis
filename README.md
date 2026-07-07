@@ -23,13 +23,14 @@ and social indicators, enabling users to make data-driven comparisons and gain m
 * Jupyter Notebook
 
 **Features**
-Country-wise comparative analysis
-Interactive charts and visualizations
-Population and demographic analysis
-Geographic insights and comparisons
-Economic and social indicator analysis
-Exploratory Data Analysis (EDA)
-Clean and easy-to-understand dashboard
+
+* Country-wise comparative analysis
+* Interactive charts and visualizations
+* Population and demographic analysis
+* Geographic insights and comparisons
+* Economic and social indicator analysis
+* Exploratory Data Analysis (EDA)
+* Clean and easy-to-understand dashboard
 
 **Key Insights**
 

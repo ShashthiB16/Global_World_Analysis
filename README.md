@@ -15,13 +15,12 @@ and social indicators, enabling users to make data-driven comparisons and gain m
 
 **Tools and Technologies**
 
-Python
-Pandas
-NumPy 
-Matplotlib
-Seaborn
-Plotly
-Jupyter Notebook
+* Pandas
+* NumPy 
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebook
 
 **Features**
 Country-wise comparative analysis

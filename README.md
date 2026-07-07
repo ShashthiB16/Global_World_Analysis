@@ -15,9 +15,9 @@ and social indicators, enabling users to make data-driven comparisons and gain m
 
 **Tools and Technologies**
 
-*Python
+* Python
 
-*Pandas
+* Pandas
 
 *NumPy 
 
